@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...flutter
-- 🌱 I’m currently learning ... clean Code Architecture
-- 👯 I’m looking to collaborate on ... flutter and Data Analyst
-- 🤔 I’m looking for help with ... Machine Learning
+- 🔭 I’m currently working on ...Mobile Machine Learning App
+- 🌱 I’m currently learning ... Tensorflow
+- 👯 I’m looking to collaborate on ... OpenCV
+- 🤔 I’m looking for help with ... Computer Vision
 - 💬 Ask me about ...
 - 📫 How to reach me: ...[facebook][Pahlawan Rahmani]
 - 😄 Pronouns: ...
